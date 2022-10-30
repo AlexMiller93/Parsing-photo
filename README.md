@@ -11,10 +11,10 @@ In file main.py there are 3 functions to parse and copy your photos. Function 'f
 You get a new folders with relevant year from file names and copied files from indicated folder.
 
 ***
-I write another script which became more simplier than first one. 
+I write another script which became more simple than first one. 
 
-In file os.version.py I wrote script with same task much simplier and readable.
-I use one for loop to interate files in folder, parse year and month from filename and make new folders with relevant name of year and month. One feature I've improved is to rename files. 
+In file os.version.py I wrote script with same task much easier and readable.
+I use one for loop to iterate files in folder, parse year and month from filename and make new folders with relevant name of year and month. One feature I've improved is to rename files. 
 After all changes you get a new folders with name year and month accordingly, copied and renamed files. 
 
 
